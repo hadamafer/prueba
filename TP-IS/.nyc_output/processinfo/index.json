@@ -1,0 +1,1 @@
+{"processes":{"5fa07723-5d07-4474-8ca9-b9e00908fab7":{"parent":null,"children":["bb970286-43e5-42d7-8a83-64195ea8f2b6"]},"bb970286-43e5-42d7-8a83-64195ea8f2b6":{"parent":"5fa07723-5d07-4474-8ca9-b9e00908fab7","children":[]}},"files":{"/home/hadamafer/IS/TP-IS/app/calculator.js":["bb970286-43e5-42d7-8a83-64195ea8f2b6"]},"externalIds":{}}
